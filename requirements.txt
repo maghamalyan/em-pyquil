@@ -13,7 +13,7 @@ future==0.17.1
 idna==2.8
 imagesize==1.1.0
 immutables==0.6
-jinja2==2.10.1
+jinja2==2.11.3
 kiwisolver==1.1.0
 markupsafe==1.1.1
 matplotlib==3.1.1
