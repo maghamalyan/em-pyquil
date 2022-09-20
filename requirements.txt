@@ -2,7 +2,7 @@
 -e git+https://github.com/rigetti/grove.git@dc6bf6ec63e8c435fe52b1e00f707d5ce4cdb9b3#egg=quantum-grove
 alabaster==0.7.12
 antlr4-python3-runtime==4.7.2
-babel==2.7.0
+babel==2.9.1
 certifi==2019.9.11
 chardet==3.0.4
 cycler==0.10.0
